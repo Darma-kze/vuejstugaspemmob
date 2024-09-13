@@ -1,4 +1,4 @@
-# Vue.js Mobile Programming Assignment
+# Vue.js Website Programming Assignment
 
 This is a Vue.js application designed for a mobile programming assignment. The app includes the following features:
 
